@@ -2,6 +2,8 @@
 
 DESCRIPTION:
 
+This is a copy of following website.
+
 INFINITY is a clean, modern and well crafted responsive template designed for creatives and agencies. 
 The template suits the needs of creative agencies, freelancers, and even small business websites.
 In addition to Infinity's great-looking design, it also comes with the following features: a 
